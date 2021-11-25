@@ -30,7 +30,9 @@ Fundamentar los conocimientos impartidos en clase mediante la realización de ej
 
 - Determinar el funcionamiento existente detras de los circuitos en serie y todas las leyes relacionados a los mismos
 
-- Determinar el funcionamiento existente detras de los circuitos en paralelo y todas las leyes y funcionamientos relacionados a los mismos
+- Definir los términos: divisor de corriente, una rama y un nodo en un circuito eléctrico
+
+- Familiarizar al estudiante con las conexiones de circuitos: serie paralelo, triangulo y estrella
 
 **CAPITULO 5: Circuitos en serie**
 
@@ -97,6 +99,10 @@ Ejercicios
 **Conclusiones:**
 
 - En un circuito en serie la corriente es igual durante todo el circuito, mientras que las potencias, voltajes y resistencias se suman de forma algebraica con el proposito de sacar su total
+
+- Un divisor de corriente pasa cuando se tiene un circuito en paralelo en el cual las corrientes se dividen de modo inversamente proporcional a las resistencias de las ramas en paralelo
+
+-Mediante el estudio de los circuitos observamos que un nodo es un punto en el cual dos o más componentes están conectados; también es conocido como unión, mientras que rama es la trayectoria por donde la corriente que circula en un circuito en paralelo.
 
 **Recomendaciones:**
 
