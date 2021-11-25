@@ -1,18 +1,18 @@
 # Informe_Tarea_3
 
-DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+**DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES**
 
-Tarea de Fundamentos en circuitos eléctricos
+**Tarea de Fundamentos en circuitos eléctricos**
+
+**CARRERA DE INGENIERIA MECATRONICA**
+
+**TEORIA DE FUNDAMENTOS DE CIRCUITOS**
 
 INSTRUCTOR: DARWIN ALULEMA
 
-CARRERA DE INGENIERIA MECATRONICA
-
-TEORIA DE FUNDAMENTOS DE CIRCUITOS
-
 NRC: 10149
 
-INTEGRANTES:
+**INTEGRANTES:**
 
 • Flores Arévalo André Josefat
 
@@ -20,19 +20,19 @@ INTEGRANTES:
 
 TEMAS: Cantidades y Unidades / Voltaje, corriente y Resistencia
 
-OBJETIVOS:
+**OBJETIVOS:**
 
 General:
 
 Fundamentar los conocimientos impartidos en clase mediante la realización de ejercicios y repaso de teoría.
 
-Especificos:
+**Especificos:**
 
 - Determinar el funcionamiento existente detras de los circuitos en serie y todas las leyes relacionados a los mismos
 
 - Determinar el funcionamiento existente detras de los circuitos en paralelo y todas las leyes y funcionamientos relacionados a los mismos
 
-CAPITULO 5: Circuitos en serie
+**CAPITULO 5: Circuitos en serie**
 
 Marco teorico:
 
@@ -58,7 +58,7 @@ Ejercicios
 
 ![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/CAPITULO%205%20EJERCICIOS_page-0009.jpg)
 
-CAPITULO 6: Circuitos en paralelo
+**CAPITULO 6: Circuitos en paralelo**
 
 Marco Teorico
 
@@ -94,17 +94,17 @@ Ejercicios
 
 ![](
 
-Conclusiones:
+**Conclusiones:**
 
 - En un circuito en serie la corriente es igual durante todo el circuito, mientras que las potencias, voltajes y resistencias se suman de forma algebraica con el proposito de sacar su total
 
-Recomendaciones:
+**Recomendaciones:**
 
 - Tener en cuenta todas las leyes presentes en tanto circuitos en serie como paralelos con el proposito de no cometer algun error proveniente de la confusion entre ambos
 
-Bibliografia:
+**Bibliografia:**
 
 -Floyd T. (2007). 5 Principios de circuitos electricos. Pearson Education.
 
-Enlace del video: 
+**Enlace del video:** 
 
