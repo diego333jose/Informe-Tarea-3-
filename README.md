@@ -92,7 +92,7 @@ Ejercicios
 
 - Un divisor de corriente pasa cuando se tiene un circuito en paralelo en el cual las corrientes se dividen de modo inversamente proporcional a las resistencias de las ramas en paralelo
 
--Mediante el estudio de los circuitos observamos que un nodo es un punto en el cual dos o más componentes están conectados; también es conocido como unión, mientras que rama es la trayectoria por donde la corriente que circula en un circuito en paralelo.
+- Mediante el estudio de los circuitos observamos que un nodo es un punto en el cual dos o más componentes están conectados; también es conocido como unión, mientras que rama es la trayectoria por donde la corriente que circula en un circuito en paralelo.
 
 **Recomendaciones:**
 
