@@ -64,37 +64,27 @@ Ejercicios
 
 Marco Teorico
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/imagen_2021-11-25_211335.png)
 
 Ejercicios
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0005.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0006.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0007.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0008.jpg)
 
-![](
-
-![](
-
-![](
-
-![](
-
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Tarea-3-/blob/main/Imagenes/Si_page-0009.jpg)
 
 **Conclusiones:**
 
@@ -113,4 +103,6 @@ Ejercicios
 -Floyd T. (2007). 5 Principios de circuitos electricos. Pearson Education.
 
 **Enlace del video:** 
+
+https://www.youtube.com/watch?v=N7OuZx_5RbM
 
